@@ -1,4 +1,6 @@
-# Intermediate Python stuff to learn
+<h1>:sparkles: Python Github Repository</h1>
+
+### :floppy_disk: Intermediate Python stuff to learn
 
 <b>When learning Python, it can be helpful to start by learning some basic algorithms and data structures. Here are a few algorithms and data structures that you may find useful when starting out with Python:</b>
 
@@ -19,3 +21,23 @@
 <b>By learning these algorithms and data structures, you will gain a strong foundation in Python programming and be well-prepared to tackle more advanced topics.</b>
 
 ---
+
+### :heart: Fun TODO's you can try with Python
+
+- A simple game: You can use Python's built-in turtle module to create a simple game like Pong or Snake.
+
+- A web scraper: Use Python's Beautiful Soup library to scrape data from a website and save it to a file or database.
+
+- A chatbot: Use Python's NLTK library to build a chatbot that can carry on a conversation with users.
+
+- A data visualizer: Use Python's Matplotlib or Seaborn library to create charts and graphs to visualize data.
+
+- A machine learning model: Use Python's scikit-learn library to build a machine learning model to make predictions based on data.
+
+- A web application: Use Python's Flask or Django framework to build a simple web application that allows users to input data or interact with a database.
+
+- A desktop application: Use Python's Tkinter library to build a graphical user interface for a desktop application.
+
+- A data analysis tool: You can use Python's pandas library to analyze and visualize data from a CSV file or a database.
+
+- A simple GUI: You can use Python's tkinter library to build a simple graphical user interface (GUI) for a desktop application.
